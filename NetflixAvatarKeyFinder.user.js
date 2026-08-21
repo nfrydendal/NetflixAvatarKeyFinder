@@ -2,7 +2,7 @@
 // @name         Netflix Avatar Key Finder
 // @namespace    https://www.netflix.com/
 // @version      1.3
-// @description  Finds the Avatar key of your Netflix icon and copies it.
+// @description  Finds Netflix avatar keys and allows you to copy them.
 // @author       starwarsdan3000 + Claude
 // @match        https://www.netflix.com/settings/profile/edit/*
 // @grant        none
