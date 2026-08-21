@@ -10,7 +10,7 @@ To use this userscript, you'll need a userscript manager such as **[Tampermonkey
    - Greasemonkey: [Install Greasemonkey Extension](https://www.greasespot.net/)
 
 2. **Install the Userscript:**
-   - Click [here](https://github.com/nfrydendal/NetflixAvatarKeyFinder/blob/main/NetflixAvatarKeyFinder.user.js) to install the userscript.
+   - Click [here](https://github.com/nfrydendal/NetflixAvatarKeyFinder/raw/refs/heads/main/NetflixAvatarKeyFinder.user.js) to install the userscript.
    - Or, copy the content of `NetflixAvatarKeyFinder.user.js` and paste it into your Tampermonkey or Greasemonkey editor:
      1. Open Tampermonkey or Greasemonkey.
      2. Click on the extension icon and select **Create a new script**.
